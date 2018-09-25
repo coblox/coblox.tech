@@ -1447,9 +1447,9 @@ figure.vimeo a img, figure.youtube a img {
 ================================================== */
 .team-col-fixsize
 {
-	min-width: 320px;
-	max-width: 320px;
-	
+	min-width: 310px;
+	max-width: 310px;
+
 }
 
 
