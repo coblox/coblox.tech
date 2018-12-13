@@ -1494,7 +1494,7 @@ figure.vimeo a img, figure.youtube a img {
 	opacity: 0.1;
 }
 .team-wrap h6{
-	position: absolute;
+
 	right: 0;
 	top: 0;
 	z-index: 1;
@@ -1503,8 +1503,7 @@ figure.vimeo a img, figure.youtube a img {
 	opacity: 0.3;
 	text-transform: none;
 	margin: 0;
-	-webkit-writing-mode: vertical-lr;
-	writing-mode: vertical-lr;
+
 }
 .team-wrap.dark h6{
 	color: #fff;
